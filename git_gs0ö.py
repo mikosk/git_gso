@@ -4,3 +4,6 @@
 
 file = open("gsogit.txt","w")
 
+file.write("Hola evado una servesa por favor?")
+
+file.close()
