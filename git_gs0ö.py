@@ -10,7 +10,7 @@ file.close()
 
 
 
-file = open("gsogit.txt", "w")
+file = open("gsogit.txt", "a")
 
 file.write("ég elska pizzu. ")
 file.write("ég hata vakna snemma í skólann. ")
