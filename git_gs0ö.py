@@ -15,3 +15,10 @@ file.write("ég hata vakna snemma í skólann")
 file.write("gsö er skemmtilegt")
 
 file.close()
+
+file = open("text.txt" , "r")
+
+print(file.readline())
+
+file.close()
+
